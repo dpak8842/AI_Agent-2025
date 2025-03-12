@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+langgraph
+python-dotenv
+streamlit
+tavily-python
+openai
+SQLAlchemy
+langgraph[checkpoint]
+
